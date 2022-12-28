@@ -6,7 +6,7 @@
 }
 
 body {
-  background-image: url("./Hacker.jpg");
+  background-image: url("images/Hacker.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -84,7 +84,6 @@ h2 {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  display: inline-block;
   text-align: right;
   position: absolute;
   right: 50px;
